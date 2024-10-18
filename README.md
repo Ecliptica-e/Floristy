@@ -7,4 +7,4 @@ HTML
 CSS
 JS
 
-Ссылка для просмотра:
+Ссылка для просмотра: https://ecliptica-e.github.io/Floristy/
