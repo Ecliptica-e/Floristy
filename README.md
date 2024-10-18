@@ -3,8 +3,8 @@
 
 Технологии 
 ----------
-HTML
-CSS
-JS
+HTML<br>
+CSS<br>
+JS<br>
 
 Ссылка для просмотра: https://ecliptica-e.github.io/Floristy/
